@@ -25,7 +25,7 @@ I am building a new unsocial link-aggregation/discussion site similar to Hacker 
       1. You'll be able to use @user from the comment box, simillar to the Github but just for that thread.
       2. Silent voting for Comments
    
-
+10. Easy embeding of source code via Gist or Special Tags. 
 
 
 
