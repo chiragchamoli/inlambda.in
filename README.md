@@ -30,4 +30,6 @@ I am building a new unsocial link-aggregation/discussion site similar to Hacker 
 
 
 
+SASS
+Backbone.js
 
